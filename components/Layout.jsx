@@ -16,6 +16,7 @@ const Layout = ({children}) => {
           &copy; 2023 My Blog
         </div>
       </footer>
+      asdfasdf
     </div>
   )
 }
